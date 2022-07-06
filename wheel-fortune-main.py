@@ -353,6 +353,7 @@ def wofRound():
         # Use the wofTurn fuction to dive into each players turn until their turn is done.
     
     # Print roundstatus with string.format, tell people the state of the round as you are leaving a round.
+        print(roundstatus.txt)
 
 def wofFinalRound():
     global roundWord
